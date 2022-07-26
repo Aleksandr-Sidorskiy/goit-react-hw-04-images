@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/aleksandr-sidorskiy.github.io/goit-react-hw-04-images/static/css/main.444094e0.css",
-    "main.js": "/aleksandr-sidorskiy.github.io/goit-react-hw-04-images/static/js/main.cb8ff0fc.js",
-    "index.html": "/aleksandr-sidorskiy.github.io/goit-react-hw-04-images/index.html",
-    "main.444094e0.css.map": "/aleksandr-sidorskiy.github.io/goit-react-hw-04-images/static/css/main.444094e0.css.map",
-    "main.cb8ff0fc.js.map": "/aleksandr-sidorskiy.github.io/goit-react-hw-04-images/static/js/main.cb8ff0fc.js.map"
+    "main.css": "/goit-react-hw-04-images/static/css/main.444094e0.css",
+    "main.js": "/goit-react-hw-04-images/static/js/main.c7c1ac83.js",
+    "index.html": "/goit-react-hw-04-images/index.html",
+    "main.444094e0.css.map": "/goit-react-hw-04-images/static/css/main.444094e0.css.map",
+    "main.c7c1ac83.js.map": "/goit-react-hw-04-images/static/js/main.c7c1ac83.js.map"
   },
   "entrypoints": [
     "static/css/main.444094e0.css",
-    "static/js/main.cb8ff0fc.js"
+    "static/js/main.c7c1ac83.js"
   ]
 }
