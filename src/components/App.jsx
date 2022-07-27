@@ -24,8 +24,8 @@ if (error) {
     console.log(error);
   }
 
- useEffect(() => {
-    if (query !== '') {
+ useEffect((prevQuery) => {
+    if (prevQuery !== query ||query !== '') {
       setIsLoading(prevIsLoading => !prevIsLoading);
       fetchImages(query, page)
         .then(({ hits, totalHits }) => {

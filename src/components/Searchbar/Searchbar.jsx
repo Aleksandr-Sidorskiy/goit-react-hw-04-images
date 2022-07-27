@@ -14,7 +14,6 @@ const Searchbar = ({onSubmit}) => {
     e.preventDefault();
 
     onSubmit(pictureName.trim());
-    setPictureName('');
     
   };
 
@@ -45,7 +44,7 @@ const Searchbar = ({onSubmit}) => {
 
 
 Searchbar.propType = {
-  props:PropTypes.func.isRequired,
+  onSubmit:PropTypes.func.isRequired,
 }
 
 export default Searchbar;
